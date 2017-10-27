@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CamelRouteSpyApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CamelRouteSpyApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(CamelRouteSpyApplication.class, args);
+    }
 }
