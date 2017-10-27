@@ -1,4 +1,4 @@
-package br.com.dimed.integration.lib.stub;
+package com.alex.camelroutespy.lib.stub;
 
 import org.apache.camel.builder.RouteBuilder;
 

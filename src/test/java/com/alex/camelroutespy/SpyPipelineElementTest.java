@@ -1,9 +1,8 @@
-package br.com.dimed.integration.lib.test;
+package com.alex.camelroutespy;
 
-import br.com.dimed.integration.lib.SpyPipeline;
-import br.com.dimed.integration.lib.SpyPipelineElement;
-import br.com.dimed.integration.lib.stub.SpyedProcessorStub;
-import br.com.dimed.integration.lib.stub.SpyedRouteStub;
+import com.alex.camelroutespy.lib.SpyPipelineElement;
+import com.alex.camelroutespy.lib.stub.SpyedProcessorStub;
+import com.alex.camelroutespy.lib.stub.SpyedRouteStub;
 import org.apache.camel.CamelContext;
 import org.apache.camel.Processor;
 import org.apache.camel.builder.RouteBuilder;

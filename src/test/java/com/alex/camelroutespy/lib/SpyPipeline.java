@@ -1,4 +1,4 @@
-package br.com.dimed.integration.lib;
+package com.alex.camelroutespy.lib;
 
 import org.apache.camel.CamelContext;
 import org.apache.camel.Exchange;

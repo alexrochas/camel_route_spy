@@ -1,7 +1,7 @@
-package br.com.dimed.integration.lib.test;
+package com.alex.camelroutespy;
 
-import br.com.dimed.integration.lib.SpyPipeline;
-import br.com.dimed.integration.lib.stub.*;
+import com.alex.camelroutespy.lib.SpyPipeline;
+import com.alex.camelroutespy.lib.stub.*;
 import org.apache.camel.CamelContext;
 import org.apache.camel.impl.DefaultExchange;
 import org.apache.camel.test.junit4.CamelTestSupport;
